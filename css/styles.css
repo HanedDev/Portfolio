@@ -30,7 +30,7 @@
   @media screen and ( max-width: 768px ) {
     .top-left {
       position: absolute;
-      top: 10%;
+      top: 8%;
       left: 10%;
       color: #ebebeb;
       font-size: 3rem !important;
@@ -60,6 +60,22 @@
     margin-left: 0 !important;
 
   }
+ /********
+   Me
+   *********/
+   #back {
+    background-color: #161616;
+   }
+
+   #me {
+    border-radius: 50%;
+    filter: drop-shadow(0 0 0.75rem rgba(22,22,22,0.5));
+   }
+
+   #competences {
+    background-color:#ebebeb ;
+   }
+
 
   /********
    Voir plus 
@@ -79,7 +95,10 @@
   main {
     border-top: 1px solid rgba(22,22,22,0.2) ;
     border-bottom: 1px solid rgba(22,22,22,0.2) ;
-    margin: auto 0;
+    margin: auto 0;   
   }
 
+  #xp {
+    background-color: #ebebeb !important;
+  }
   
