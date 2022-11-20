@@ -40,10 +40,10 @@
   @media screen and ( max-width: 490px ) {
     .top-left {
       position: absolute;
-      top: 9%;
+      top: 8%;
       left: 6%;
       color: #ebebeb;
-      font-size: 1rem !important;
+      font-size: 0.8rem !important;
     }
   }
 
